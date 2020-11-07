@@ -1,0 +1,52 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    max-width: 10rem;
+}
+
+.form-field{
+    margin-left: 10%;
+    width: 45rem;
+    
+}
+
+.login-form{
+    padding-left: 4rem;
+    padding-top: 1rem;
+}
+
+.inside-form{
+    text-align: center;
+}
+
+.form-control{
+    padding: 0.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.form-name{
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.btn1{
+    border: none;
+    outline: none;
+    height: 4rem;
+    width: 55%;
+    background-color: #1596D7;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 20px;    
+    margin-left: 2.5rem;
+    margin-top: 2rem;
+}
+
+.btn1:hover{
+    background-color: #000000 ;
+}
